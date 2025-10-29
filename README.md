@@ -1,4 +1,4 @@
-# Master the Round display on ESP32 and GC9A01 driver with the TFT_eSPI library. 
+# Happy halloween skull with display eyes
 
 ### Youtube Tutorial
 https://youtu.be/pmCc7z_Mi8I
