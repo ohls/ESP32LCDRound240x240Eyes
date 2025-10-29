@@ -11,6 +11,9 @@ https://github.com/thelastoutpostworkshop/ESP32LCDRound240x240Eyes
 
 ## Configuration Guide: ESP32-WROOM-32 with GC9A01 Round Display(s)
 
+![Setup](images/skull-workbench.jpg)
+
+
 ### Hardware Requirements
 - **Microcontroller**: ESP32-WROOM-32 (original ESP32, NOT ESP32-S3)
 - **Display(s)**: 1.28" GC9A01 Round Display(s) 240x240px
@@ -144,6 +147,3 @@ Ensure you have selected:
 - **Flash Size**: 4MB
 - **CPU Frequency**: 240MHz
 
----
-
-![Setup](https://github.com/thelastoutpostworkshop/ESP32LCDRound240x240Eyes/blob/main/images/IMG-3903.JPG)
